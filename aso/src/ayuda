@@ -1,0 +1,11 @@
+ayuda/???- - -muestra en pantalla la lista de comandos
+linpiar- - -limpia la pantalla
+exit- - -salir del programa
+arbol- - -muestra en pantalla el arbol de directorios de linux
+ls- - -lista los archivos y directorios en pantalla
+echo "texto- - -muestra en pantalla el texto escrito
+pwd- - -muestra en pantalla la ruta actual
+copiar origen destino- - -copia el archivo de origen a destino
+eliminar nombre- - -elimina el archivo
+renombrar nombre- - -cambia el nombre de un archivo
+ver nombre- - -muestra en pantalla el contenido de un archivo
